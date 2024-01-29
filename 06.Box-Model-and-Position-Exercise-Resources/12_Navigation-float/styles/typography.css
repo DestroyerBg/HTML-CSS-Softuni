@@ -1,0 +1,16 @@
+body{
+    padding: 3em;
+}
+
+blockquote{
+    font-family: Georgia, serif;
+}
+
+header p {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h1,h2{
+    font-size: 30px;
+}
